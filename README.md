@@ -1,4 +1,4 @@
-# Santa Barbara, California Land Cover Classification
+# Santa Barbara, California-Land Cover Classification
 
 Exploration of land cover classification for southern Santa Barbara County based on multi-spectral imagery using a decision tree classifier which is a form of supervised classification. Monitoring the distribution and change in land cover types can help us understand the impacts of phenomena like climate change, natural disasters, deforestation, and urbanization. 
 
