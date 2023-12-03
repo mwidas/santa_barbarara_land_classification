@@ -19,6 +19,8 @@ There will be one main visualization produced in the `.Rmd` file. This visualiza
 
 ## Data
 
+The data associated with this project was accessed from this [link](https://drive.google.com/drive/folders/1ON8FbDqcTjg2PKHmNGgyN7odTqpOnXla). Store data locally and add `data` folder to the `.gitignore`.
+
 ```{r}
 santa_barbara_land_classification
 │   README.md
@@ -33,4 +35,4 @@ santa_barbara_land_classification
     |
     └───landsat-data
     |   │   landsat data files
-    ```
+```
